@@ -30,8 +30,7 @@ public class Facebook_LoginTestcase extends Library {
 		login.enterpassword("adc");
 		
 		login.submitbutton();
-		
-		
+	
 		
 		
 	}
